@@ -1,2 +1,2 @@
 # booking-flight-api
-This is another Zuri task on server routes module on flight booking.
+This is another Zuri task working with json server routes module on flight booking.
